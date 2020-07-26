@@ -5,7 +5,7 @@ npm install
 
 node .
 
-Create a file called config.js and fine the following:
+Create a file called config.js and define the following:
 
 exports.token = "BOT_TOKEN",
 
